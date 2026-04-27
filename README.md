@@ -2,4 +2,5 @@
 
 In this repository i am share the machine larning algorithms that help me to revise ml as a quick revise sheet.
  i am busy in sem exam
+ 
 i do it quickly
