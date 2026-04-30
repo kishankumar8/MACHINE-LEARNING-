@@ -6,4 +6,4 @@ I do it quickly.
 
 total 6 papers are there in 4th sem .
 
-paper is done and  remaining.
+4 paper is done and  remaining.
