@@ -2,6 +2,6 @@
 
 In this repository i am share the machine larning algorithms that help me to revise ml as a quick revise sheet.
 
-I  it quickly.
+I  i quickly.
 
 5 paper is done and 1 remaining.
