@@ -5,4 +5,4 @@ machine learning is like learning from data and set the logic through algorithm 
 
 In this repository i am share the machine larning algorithms that help me to revise ml as a quick revise sheet.
 
-For data i use kaggle platform
+For data i use kaggle platform.
