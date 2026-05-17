@@ -10,4 +10,4 @@ For dataset I use kaggle platform.
 
 #Types of machine learning 
 -> *supervised*
-_
+->*unsupervised*
