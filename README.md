@@ -8,4 +8,4 @@ In this repository i am share the machine larning algorithms that help me to rev
 
 For dataset I use kaggle platform.
 
-#Types of mchine 
+#Types of machine 
