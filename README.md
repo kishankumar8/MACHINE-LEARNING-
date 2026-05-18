@@ -10,7 +10,7 @@ For dataset I use kaggle platform.
 
 #Types of machine learning 
 -> *supervised*
-->*unsup
+
  1. supervised()
 
  2.unsupervised()
