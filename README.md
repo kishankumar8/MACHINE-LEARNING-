@@ -10,4 +10,11 @@ For dataset I use kaggle platform.
 
 #Types of machine learning 
 -> *supervised*
-->*unsupervised*
+->*unsup
+ 1. supervised()
+
+ 2.unsupervised()
+
+ 3.semisupervised()
+
+ 4.Reinforcement()
