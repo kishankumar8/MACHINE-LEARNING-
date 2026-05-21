@@ -12,6 +12,7 @@ For dataset I use kaggle platform.
 
  1. supervised()
    ->regression
+    ->classification
  2.unsupervised()
 
  3.semisupervised()
