@@ -11,7 +11,7 @@ For dataset I use kaggle platform.
 #Types of machine learning 
 
  1. supervised()
-
+   ->regression
  2.unsupervised()
 
  3.semisupervised()
