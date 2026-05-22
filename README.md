@@ -10,8 +10,10 @@ For dataset I use kaggle platform.
 
 #Types of machine learning 
 
- 1. supervised()
+ 1. supervised(learn from labelled data )
+
    ->regression
+   
     ->classification
  2.unsupervised()
 
