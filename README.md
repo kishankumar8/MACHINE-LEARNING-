@@ -13,8 +13,8 @@ For dataset I use kaggle platform.
  1. supervised(learn from labelled data )
 
    ->regression
-   
-    ->classification
+  
+   ->classification
  2.unsupervised()
 
  3.semisupervised()
