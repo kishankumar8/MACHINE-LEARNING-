@@ -14,7 +14,7 @@ For dataset I use kaggle platform.
 
    ->regression(its have out[put of numerical values)
   
-   ->classification
+   ->classification(its have output of catogrical values)
    
  2.unsupervised()
 
