@@ -15,6 +15,7 @@ For dataset I use kaggle platform.
    ->regression(its have out[put of numerical values)
   
    ->classification
+   
  2.unsupervised()
 
  3.semisupervised()
