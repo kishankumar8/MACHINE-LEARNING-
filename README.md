@@ -22,6 +22,9 @@ For dataset I use kaggle platform.
     ->clustering
     
     ->dimensionality reduction
+    
     ->anamoly detection
+    
     ->assciation rule based learning
+    
  4.Reinforcement(learning from scrach from starting)
