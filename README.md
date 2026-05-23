@@ -19,8 +19,8 @@ For dataset I use kaggle platform.
  2.unsupervised (learning from unlabelled data input have not correct output)
 
  3.semisupervised(only correct one raw data and all related data correct automatically )
-    ->
-    ->
-    ->
-    ->
+    ->clustering
+    ->dimensionality reduction
+    ->anamoly detection
+    ->assciation rule based learning
  4.Reinforcement(learning from scrach from starting)
