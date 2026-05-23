@@ -16,7 +16,7 @@ For dataset I use kaggle platform.
   
    ->classification (its have output of catogrical values)
    
- 2.unsupervised()
+ 2.unsupervised ()
 
  3.semisupervised()
 
