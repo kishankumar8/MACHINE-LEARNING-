@@ -12,9 +12,9 @@ For dataset I use kaggle platform.
 
  1. supervised(learn from labelled data and labelled have input and its correct output)
 
-   ->regression(its have out[put of numerical values)
+   ->regression (its have out[put of numerical values)
   
-   ->classification(its have output of catogrical values)
+   ->classification (its have output of catogrical values)
    
  2.unsupervised()
 
