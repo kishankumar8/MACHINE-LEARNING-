@@ -20,4 +20,4 @@ For dataset I use kaggle platform.
 
  3.semisupervised(only correct one raw data and all related data correct automatically )
 
- 4.Reinforcement()
+ 4.Reinforcement(learning from scrach from starting)
