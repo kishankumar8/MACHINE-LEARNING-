@@ -29,3 +29,6 @@ For dataset I use kaggle platform.
     ->assciation rule based learning
     
  4.Reinforcement (learning from scrach from starting)
+
+ -->BATCH LEARNING 
+ -->ONLINE LEARNING
