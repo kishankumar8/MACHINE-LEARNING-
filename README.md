@@ -33,4 +33,4 @@ For dataset I use kaggle platform.
  -->BATCH LEARNING ()
 
  
- -->ONLINE LEARNING()
+ -->ONLINE LEARNING ()
