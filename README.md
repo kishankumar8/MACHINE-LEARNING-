@@ -30,9 +30,9 @@ For dataset I use kaggle platform.
     
  4.Reinforcement (learning from scrach from starting)
 
- -->BATCH LEARNING 
+ -->BATCH LEARNING ()
 
 
 
  
- -->ONLINE LEARNING
+ -->ONLINE LEARNING()
